@@ -1,18 +1,3 @@
----
-title:
-  page: "NemoClaw with Gemini via LiteLLM Proxy — Complete Ubuntu Guide"
-  nav: "Gemini + LiteLLM Playbook"
-description: "End-to-end guide: install NemoClaw on Ubuntu, apply common fixes, and use Google Gemini models through a LiteLLM OpenAI-compatible proxy."
-keywords: ["nemoclaw gemini", "nemoclaw litellm", "nemoclaw ubuntu", "gemini openai proxy", "litellm nemoclaw"]
-topics: ["generative_ai", "ai_agents"]
-tags: ["openclaw", "openshell", "sandboxing", "inference_routing", "nemoclaw", "ubuntu", "gemini", "litellm"]
-content:
-  type: get_started
-  difficulty: technical_beginner
-  audience: ["developer", "engineer"]
-status: draft
----
-
 <!--
   SPDX-FileCopyrightText: Copyright (c) 2025-2026 NVIDIA CORPORATION & AFFILIATES. All rights reserved.
   SPDX-License-Identifier: Apache-2.0
